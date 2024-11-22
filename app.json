@@ -2,6 +2,7 @@
   "expo": {
     "name": "GuvenligimNerede",
     "slug": "GuvenligimNerede",
+    "newArchEnabled": true,
     "version": "1.0.0"
   }
 }
